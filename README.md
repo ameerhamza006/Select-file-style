@@ -7,7 +7,7 @@ Dropify
 
 Override your input files with style.
 
-Demo here : [http://jeremyfagis.github.io/dropify](http://jeremyfagis.github.io/dropify/)
+Demo here : https://ameerhamza006.github.io/Select-file-style/
 
 
 ## Dependency
