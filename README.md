@@ -1,6 +1,6 @@
 # ⚠️ Repository archived ⚠️
 
-]
+
 =========
 
 Override your input files with style.
